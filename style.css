@@ -5,3 +5,14 @@ body {
 h1 {
     font-family: Raleway, sans-serif;
 }
+.header {
+    background-color: gray;
+}
+
+.header-link {
+    font-weight: 600;
+    font-style: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+}
